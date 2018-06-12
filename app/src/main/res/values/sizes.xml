@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_medium">15sp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="padding_reviews">10dp</dimen>
+    <dimen name="padding_video_width">200dp</dimen>
+    <dimen name="padding_video_height">150dp</dimen>
+</resources>

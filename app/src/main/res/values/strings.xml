@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">PopularMovies</string>
+    <string name="app_name">Popular Movies</string>
+    <string name="click">Click for movie details</string>
+    <string name="api_key">d21088ac1b4540a395608d61089f12cc</string>
+    <string name="sort">Sort</string>
+    <string name="no_data">There is no data to display</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="movie_reviews">Movie Reviews</string>
+    <string name="button_name">Movie Trailer</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="pref_sortBy_key">sortBy</string>
+    <string name="pref_sortBy_default">popular</string>
+    <string name="movie_added_to_favorite">Movie has been added to favorite list</string>
+    <string name="movie_removed_from_favorite">Movie has been removed from favorite list</string>
+    <string name="sort_criteria_top_rated">top_rated</string>
+    <string name="sort_criteria_popular">popular</string>
 </resources>
