@@ -9,3 +9,5 @@ It displays a scrolling grid of movie trailers, launches a details screen whenev
 
 Enter your developer API key from www.themoviedb.org in the gradle.properties file
 `APIKey = "Enter API"`
+
+
