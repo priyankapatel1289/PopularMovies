@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity implements MoviesAdapter.Mov
             MoviesSyncTask.syncMovies(this, getString(R.string.sort_criteria_popular));
             return true;
         } else if (id == R.id.menu_favorite) {
-            getSupportLoaderManager().destroyLoader(ID_MOVIE_LOADER);;
+            getSupportLoaderManager().destroyLoader(ID_MOVIE_LOADER);
             getSupportLoaderManager().initLoader(ID_MOVIE_LOADER_FAVORITE, null, this);
             return true;
         }
